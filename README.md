@@ -4,4 +4,4 @@
 VSCode BOJ-extension 사용중.
 
 ## 기록
-24.08.07~ - Random Marathon · Course 10 푸는 중
+24.08.07~24.08.10 - Random Marathon · Course 10 완료!
