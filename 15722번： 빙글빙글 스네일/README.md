@@ -1,0 +1,36 @@
+# 15722번: 빙글빙글 스네일 - <img src="https://static.solved.ac/tier_small/5.svg" style="height:20px" /> Bronze I
+
+<!-- performance -->
+
+<!-- 문제 제출 후 깃허브에 푸시를 했을 때 제출한 코드의 성능이 입력될 공간입니다.-->
+
+<!-- end -->
+
+## 문제
+
+[문제 링크](https://boj.kr/15722)
+
+
+<p>달팽이는 원점에서 시작하여 1초에 한 칸 씩, 시계방향으로 아래 그림과 같이 움직인다. (단, 1초일 때 달팽이의 위치는 (0, 1)이다.) 몇 초가 지났는지가 입력으로 주어질 때, 현재 달팽이의 위치를 좌표로 출력하시오.</p>
+
+<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15722/1.jpg" style="width: 212px; height: 211px;"></p>
+
+
+
+## 입력
+
+
+<p>달팽이가 움직인 시간이 n초로 주어진다. (0 ≤ n ≤ 1000, n은 0이상의 정수)</p>
+
+
+
+## 출력
+
+
+<p>현재 달팽이의 위치를 x, y좌표 순서로 출력한다.</p>
+
+
+
+## 소스코드
+
+[소스코드 보기](빙글빙글%20스네일.cpp)
